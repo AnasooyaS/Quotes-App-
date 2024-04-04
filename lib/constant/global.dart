@@ -1,0 +1,1 @@
+const String baseURL = 'https://type.fit/api/quotes';
